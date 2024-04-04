@@ -40,7 +40,7 @@ Next, we need to determine the coordinates of the pictures that are relevant for
 ## Running the backend
 You need a system running docker, like unRAID or the Linux system your Home Assistant installation is running.
 
-1. Create a configuration file `config.json` in a directory of your choice
+1. Create a configuration file `config.json` in a directory of your choice and remove the comments
     
     Paste the code of the example config file:
     ```json
